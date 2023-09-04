@@ -1,0 +1,98 @@
+streamlit run "C:/Users/acer/OneDrive/Desktop/deploy machine/multiple disease pred.py.py"
+
+ #  chroinc kidney 
+
+#if (selected == "Chronic kidney Prediction"):
+    
+    # page title
+    #st.title(" Chronic kidney Disease Prediction using ML")
+    
+    #col1, col2, col3, col4, col5 = st.columns(5)  
+    
+    '''with col1:
+        foo = st.text_input('Age')
+        
+    with col2:
+        fhiii = st.text_input('bp')
+        
+    with col3:
+        flooo = st.text_input('SG')
+        
+    with col4:
+        Jitter_percentty = st.text_input('al')
+        
+    with col5:
+        Jitter_Absss = st.text_input('Su')
+        
+    with col1:
+        RdfgP = st.text_input('rbc')
+        
+    with col2:
+        PPQhj = st.text_input('pc')
+        
+    with col3:
+        DDjk = st.text_input('pcc')
+        
+    with col4:
+        Shimmghj = st.text_input('ba')
+        
+    with col5:
+        Shimmer_dhj = st.text_input('bgr')
+        
+    with col1:
+        APQ87 = st.text_input('bu')
+        
+    with col2:
+        APQ599 = st.text_input('sc')
+        
+    with col3:
+        AP765 = st.text_input('sod')
+        
+    with col4:
+        DD89 = st.text_input('pot')
+        
+    with col5:
+        N67R = st.text_input('Hemo')
+        
+    with col1:
+        HN907 = st.text_input('pcv')
+        
+    with col2:
+        RPrtt = st.text_input('wc')
+        
+    with col3:
+        DFyuu = st.text_input('rc')
+        
+    with col4:
+        spreaui1 = st.text_input('htn')
+        
+    with col5:
+        spreaio2 = st.text_input('dm')
+        
+    with col1:
+        D2gh = st.text_input('cad')
+        
+    with col2:
+        jkl = st.text_input('appet')
+        
+    with col3:
+         Dg = st.text_input('pe')
+         
+    with col4:
+         PPj = st.text_input('ane')'''
+             
+        ''' kidney_diagnosis = '''
+         
+       '''  # creating a button for Prediction    
+         if st.button("kidney's Test Result"):
+             kidney_prediction = kidney_model.predict([[foo, fhiii, flooo, Jitter_percentty, Jitter_Absss, RdfgP, PPQhj, DDjk,Shimmghj,Shimmer_dhj,APQ87,APQ599,AP765,DD89, N67R, HN907, RPrtt,DFyuu, spreaui1, spreaio2, D2gh, jkl, Dg, PPj]])                          
+             
+             if (kidney_prediction[0] == 1):
+               kidney_diagnosis = "The person has kidney's disease"
+             else:
+               kidney_diagnosis = "The person does not have kidney's disease"
+             
+         st.success(kidney_diagnosis)'''
+         
+    https://www.studocu.com/in/n/31250003?sid=01670305280
+    
